@@ -1,2 +1,2 @@
-# thebabydiary
-baby diary
+# The Baby Diary
+
